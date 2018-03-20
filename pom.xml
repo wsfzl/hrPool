@@ -43,5 +43,6 @@
     <module>hr.controller</module>
     <module>hr.service</module>
     <module>hr.view</module>
+    <module>hr.utils</module>
   </modules>
 </project>
