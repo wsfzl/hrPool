@@ -19,10 +19,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
-d
+
   </head>
   
   <body>
-    This is my JSP page. <br>
+    This is my JSP page.大苏打似的 <br>
   </body>
 </html>
